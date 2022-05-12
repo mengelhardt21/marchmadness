@@ -16,7 +16,7 @@ All you need to do is download both the python file and the data file into your 
 
 Run the python file, and it will output the winner of each matchup will be posted on a new line for each round. Example output below:
 
-    ![alt text](assets/Example_Output.png)
+![Output](/asset/Example_Output.PNG)
 
 ## Credits
 
